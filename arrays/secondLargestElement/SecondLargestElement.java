@@ -1,4 +1,4 @@
-package com.saniyat.problemSolving.gfgSolutions.arrays;
+package com.saniyat.problemSolving.gfgSolutions.arrays.secondLargestElement;
 
 public class SecondLargestElement {
     public static void main(String[] args) {
